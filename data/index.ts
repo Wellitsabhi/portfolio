@@ -84,7 +84,7 @@ export const projects = [
       "/three.svg",
       "framer.svg",
     ],
-    link: "/ui.apple.com",
+    link: "https://wellitsabhi.vercel.app/",
     liveorcode: true,
   },
   {
